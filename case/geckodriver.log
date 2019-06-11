@@ -1,0 +1,732 @@
+1560153713799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.mTpJOVGEp25x"
+1560153719480	Marionette	INFO	Listening on port 63390
+1560153719580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560153745551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.O8g1yrBLfQHU"
+1560153750114	Marionette	INFO	Listening on port 63588
+1560153750145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+1560153768535	Marionette	INFO	Stopped listening on port 63588
+1560153918382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.DCFkQsm2T6Hx"
+1560153922742	Marionette	INFO	Listening on port 64414
+1560153922809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+1560153954224	Marionette	INFO	Stopped listening on port 64414
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560155172823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.aSWZgISXlf8T"
+1560155177230	Marionette	INFO	Listening on port 53184
+1560155177280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+1560155195337	Marionette	INFO	Stopped listening on port 53184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560155210008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.n9vq2ui3vzQG"
+1560155214200	Marionette	INFO	Listening on port 53429
+1560155214283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+1560155226230	Marionette	INFO	Stopped listening on port 53429
+1560156404136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.oCnezzPznQKy"
+1560156409563	Marionette	INFO	Listening on port 58379
+1560156409661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+1560156428649	Marionette	INFO	Stopped listening on port 58379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560156461941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.WZDP8N9hycUu"
+1560156465595	Marionette	INFO	Listening on port 58710
+1560156465705	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=8bb86d76-8b5c-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560156530963	Marionette	INFO	Stopped listening on port 58710
+1560156599238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.IdLHpGV7kKfI"
+1560156602737	Marionette	INFO	Listening on port 59354
+1560156602839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=c774229c-8b5c-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560156630467	Marionette	INFO	Stopped listening on port 59354
+1560157364630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.gu35nU9HiSLC"
+1560157368580	Marionette	INFO	Listening on port 62654
+1560157368660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=8b226842-8b5e-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/static/js/base.js?v=8b226842-8b5e-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560157391014	Marionette	INFO	Stopped listening on port 62654
+1560158439850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.JsZ8zNHdPdM5"
+1560158443902	Marionette	INFO	Listening on port 50946
+1560158443955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=0bafa37e-8b61-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560158476299	Marionette	INFO	Stopped listening on port 50946
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560164762937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.a9vz7V3xZ0yO"
+1560164768138	Marionette	INFO	Listening on port 60676
+1560164768270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560164781332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.9cMBVdY0Vd4L"
+1560164785920	Marionette	INFO	Listening on port 60821
+1560164786006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=d7b00d16-8b6f-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560164829294	Marionette	INFO	Stopped listening on port 60821
+1560164893597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.zhHeohVwXHwe"
+1560164897631	Marionette	INFO	Listening on port 61374
+1560164897742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=23ec32c2-8b70-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560164960734	Marionette	INFO	Stopped listening on port 61374
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560165269685	Marionette	INFO	Stopped listening on port 60676
+1560165479333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.rqN3eHtYUYZb"
+1560165486059	Marionette	INFO	Listening on port 63880
+1560165486199	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=8dadea92-8b71-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560165564440	Marionette	INFO	Stopped listening on port 63880
+1560165612410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.IgfdKZPxwfsr"
+1560165617360	Marionette	INFO	Listening on port 64544
+1560165617448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=c356229a-8b71-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560165657055	Marionette	INFO	Stopped listening on port 64544
+1560165790104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.lyurbeIDHmvt"
+1560165795511	Marionette	INFO	Listening on port 65367
+1560165795572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560165810163	Marionette	INFO	Stopped listening on port 65367
+1560165904496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.yv1MN2LJh8ov"
+1560165911425	Marionette	INFO	Listening on port 49515
+1560165911531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=69c3b64c-8b72-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560165937206	Marionette	INFO	Stopped listening on port 49515
+1560165960490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.DEsgWsXdYU2z"
+1560165965767	Marionette	INFO	Listening on port 49858
+1560165965907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=8a0016f8-8b72-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+1560165991628	Marionette	INFO	Stopped listening on port 49858
+1560166007535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Jy6wtKKWchSE"
+1560166011569	Marionette	INFO	Listening on port 50151
+1560166011696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=a54e4ad8-8b72-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560166036280	Marionette	INFO	Stopped listening on port 50151
+1560166137813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.7ES3NhftDTDp"
+1560166142589	Marionette	INFO	Listening on port 50778
+1560166142652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=f419b99a-8b72-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560166172820	Marionette	INFO	Stopped listening on port 50778
+1560166224493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Ho4A9ceT7KwI"
+1560166228756	Marionette	INFO	Listening on port 51233
+1560166228849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=276a5ab6-8b73-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560166255141	Marionette	INFO	Stopped listening on port 51233
+1560166273736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.rPVCypDIOVgr"
+1560166277202	Marionette	INFO	Listening on port 51530
+1560166277308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=438f83ba-8b73-11e9-8d5c-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIydGVzdHRlc3RqTXpBbUBnbWFpbC5jb20lMjIsJTIyc2hvcCUyMjolMjJ0aGVpbmtleWxpc3QlMjIsJTIyZm9sbG93JTIyOnRydWUsJTIyaXAlMjI6JTIyNzkuMTQyLjE5Ni41MyUyMiwlMjJwcm92aWRlciUyMjolMjJpbnN0YWdyYW0lMjIsJTIydXRtX2RhdGElMjI6JTdCJTdELCUyMnJlZiUyMjolMjJOb3QlMjBmb3VuZCUyMiU3RA==#, line 121: TypeError: $(...).data(...) is undefined
+1560166305212	Marionette	INFO	Stopped listening on port 51530
+1560240497698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.dAzNl1xWegU9"
+1560240502534	Marionette	INFO	Listening on port 49775
+1560240502680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=15b6fd62-8c20-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIydGVzdHRlc3RsenpNbEBnbWFpbC5jb20lMjIsJTIyc2hvcCUyMjolMjJ0aGVpbmtleWxpc3QlMjIsJTIyZm9sbG93JTIyOnRydWUsJTIyaXAlMjI6JTIyNzkuMTQyLjE5Ni41MyUyMiwlMjJwcm92aWRlciUyMjolMjJpbnN0YWdyYW0lMjIsJTIydXRtX2RhdGElMjI6JTdCJTdELCUyMnJlZiUyMjolMjJOb3QlMjBmb3VuZCUyMiU3RA==#, line 121: TypeError: $(...).data(...) is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560240537415	Marionette	INFO	Stopped listening on port 49775
+1560240628099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.wucqlhFoN5lT"
+1560240633190	Marionette	INFO	Listening on port 50449
+1560240633306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=639adb34-8c20-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIydGVzdHRlc3RSaG1KbUBnbWFpbC5jb20lMjIsJTIyc2hvcCUyMjolMjJ0aGVpbmtleWxpc3QlMjIsJTIyZm9sbG93JTIyOnRydWUsJTIyaXAlMjI6JTIyNzkuMTQyLjE5Ni41MyUyMiwlMjJwcm92aWRlciUyMjolMjJpbnN0YWdyYW0lMjIsJTIydXRtX2RhdGElMjI6JTdCJTdELCUyMnJlZiUyMjolMjJOb3QlMjBmb3VuZCUyMiU3RA==#, line 121: TypeError: $(...).data(...) is undefined
+1560240670272	Marionette	INFO	Stopped listening on port 50449
+1560240750953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.nwjabPaYVrlg"
+1560240755538	Marionette	INFO	Listening on port 51045
+1560240755600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=ac6371dc-8c20-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIydGVzdExzRWVIQGdtYWlsLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560240793324	Marionette	INFO	Stopped listening on port 51045
+1560240873248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.NnZTbLCnqECu"
+1560240877194	Marionette	INFO	Listening on port 51643
+1560240877297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=f7e1607e-8c20-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560240924923	Marionette	INFO	Stopped listening on port 51643
+1560241206626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.qKKpNPrGl2Nq"
+1560241212069	Marionette	INFO	Listening on port 53101
+1560241212158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=bc721e74-8c21-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241260948	Marionette	INFO	Stopped listening on port 53101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560241323238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.l4oQk8Ug1OuL"
+1560241327046	Marionette	INFO	Listening on port 53677
+1560241327117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=00d8b672-8c22-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241376509	Marionette	INFO	Stopped listening on port 53677
+1560241388937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.l1K0bJNx0h2b"
+1560241393219	Marionette	INFO	Listening on port 54041
+1560241393325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=28490c02-8c22-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241442108	Marionette	INFO	Stopped listening on port 54041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560241532089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.2Ah31LQs55mB"
+1560241535873	Marionette	INFO	Listening on port 54722
+1560241535941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=7d851b7a-8c22-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241587213	Marionette	INFO	Stopped listening on port 54722
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 97194, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Child 97194, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560241607869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.NPcERHhtlvw2"
+1560241611701	Marionette	INFO	Listening on port 55138
+1560241611827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=aa905e4a-8c22-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241667021	Marionette	INFO	Stopped listening on port 55138
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1560241788462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.ooxFRq0A6Fgn"
+1560241792953	Marionette	INFO	Listening on port 55964
+1560241793021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=16b6e576-8c23-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560241846213	Marionette	INFO	Stopped listening on port 55964
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1560241886705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.aFHrL14cU20q"
+1560241890260	Marionette	INFO	Listening on port 56464
+1560241890292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=5080702e-8c23-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1560241942705	Marionette	INFO	Stopped listening on port 56464
+1560241969285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.mvPIblUiPjMT"
+1560241973033	Marionette	INFO	Listening on port 56890
+1560241973140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=81d4d160-8c23-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560242027182	Marionette	INFO	Stopped listening on port 56890
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1560242619217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.R6Dv7prHuEzl"
+1560242623533	Marionette	INFO	Listening on port 59600
+1560242623634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1560243164821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.3JjWbZQTAXyG"
+1560243169216	Marionette	INFO	Listening on port 61927
+1560243169350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=4b5749b2-8c26-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560243221050	Marionette	INFO	Stopped listening on port 61927
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1560243249388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.m4ihp4Ikz91q"
+1560243253061	Marionette	INFO	Listening on port 62372
+1560243253154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=7cecd3ac-8c26-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560243303672	Marionette	INFO	Stopped listening on port 62372
+1560243397320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Vdg28Fo2p77O"
+1560243401954	Marionette	INFO	Listening on port 63065
+1560243402086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=d5cbc19a-8c26-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560243454509	Marionette	INFO	Stopped listening on port 63065
+1560243547263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.35me38Z9o1P4"
+1560243552034	Marionette	INFO	Listening on port 63775
+1560243552091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=2f331576-8c27-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560243603407	Marionette	INFO	Stopped listening on port 63775
+1560243950514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.8TyC7Ml9JABj"
+1560243955091	Marionette	INFO	Listening on port 49226
+1560243955190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=227b4c80-8c28-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244010755	Marionette	INFO	Stopped listening on port 49226
+1560244161749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.H9M13dmXL8ov"
+1560244165668	Marionette	INFO	Listening on port 50203
+1560244165734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=9cd67c98-8c28-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244214704	Marionette	INFO	Stopped listening on port 50203
+1560244269607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.uFtwZ0LbfX6T"
+1560244273625	Marionette	INFO	Listening on port 50745
+1560244273693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=dd259ba8-8c28-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244323162	Marionette	INFO	Stopped listening on port 50745
+1560244436028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.iHrsfNh0mwDq"
+1560244439482	Marionette	INFO	Listening on port 51509
+1560244439577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=400b489e-8c29-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244488563	Marionette	INFO	Stopped listening on port 51509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560244499335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.2O3YZk5RzUbB"
+1560244503047	Marionette	INFO	Listening on port 51855
+1560244503148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=65c4a3b4-8c29-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244550519	Marionette	INFO	Stopped listening on port 51855
+1560244600293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.yOYAyUcAy2Rx"
+1560244603761	Marionette	INFO	Listening on port 52359
+1560244603883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=a1e7991e-8c29-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244652488	Marionette	INFO	Stopped listening on port 52359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560244710792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.TmSNEoI9Drf7"
+1560244714461	Marionette	INFO	Listening on port 52902
+1560244714562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=e3f772ca-8c29-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560244765632	Marionette	INFO	Stopped listening on port 52902
+[Parent 97898, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560244968643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Hhj7qKL9HikE"
+1560244973558	Marionette	INFO	Listening on port 54108
+1560244973665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1560244992704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.sKKkOgCBEoH1"
+1560244996903	Marionette	INFO	Listening on port 54303
+1560244996991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=8c37a75c-8c2a-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245047118	Marionette	INFO	Stopped listening on port 54303
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560245207713	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Lrb0f0na64ri"
+1560245212036	Marionette	INFO	Listening on port 55286
+1560245212083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=0c96ab00-8c2b-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245263826	Marionette	INFO	Stopped listening on port 55286
+1560245340992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.bIWM2Iuyt84u"
+1560245344792	Marionette	INFO	Listening on port 55925
+1560245344911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=5ba1cacc-8c2b-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245399447	Marionette	INFO	Stopped listening on port 55925
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560245496627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.qCArRq1Khvi6"
+1560245500561	Marionette	INFO	Listening on port 56655
+1560245500630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=b8a02782-8c2b-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245531622	Marionette	INFO	Stopped listening on port 56655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560245564970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.Ll4qnFHLHnB0"
+1560245570318	Marionette	INFO	Listening on port 57029
+1560245570431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=e2d48e08-8c2b-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245604470	Marionette	INFO	Stopped listening on port 57029
+1560245684010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.GFVimdzjNn4y"
+1560245688010	Marionette	INFO	Listening on port 57624
+1560245688080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=282df57a-8c2c-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560245719470	Marionette	INFO	Stopped listening on port 57624
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1560254062399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.42Ufd6djmXil"
+1560254066969	Marionette	INFO	Listening on port 58961
+1560254067128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560254086633	Marionette	INFO	Stopped listening on port 58961
+1560254094167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.FFTEM023WsRd"
+1560254097940	Marionette	INFO	Listening on port 59156
+1560254098038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=ca85c5c4-8c3f-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+1560254161703	Marionette	INFO	Stopped listening on port 59156
+1560254206049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gf/5q4vgmsx1812hp60_ct256500000gn/T/rust_mozprofile.PKK3jgcYRj3X"
+1560254211573	Marionette	INFO	Listening on port 59705
+1560254211705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lushli.com/theinkeylist/, line 121: TypeError: $(...).data(...) is undefined
+JavaScript error: https://lushli.com/static/js/base.js?v=0bbf0c94-8c40-11e9-8d5d-0a25761ef2cc, line 94: ReferenceError: error is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://lushli.com/theinkeylist/?serverName=instagram&data=JTdCJTIyZW1haWwlMjI6JTIycUBxLmNvbSUyMiwlMjJzaG9wJTIyOiUyMnRoZWlua2V5bGlzdCUyMiwlMjJmb2xsb3clMjI6dHJ1ZSwlMjJpcCUyMjolMjI3OS4xNDIuMTk2LjUzJTIyLCUyMnByb3ZpZGVyJTIyOiUyMmluc3RhZ3JhbSUyMiwlMjJ1dG1fZGF0YSUyMjolN0IlN0QsJTIycmVmJTIyOiUyMk5vdCUyMGZvdW5kJTIyJTdE#, line 121: TypeError: $(...).data(...) is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
